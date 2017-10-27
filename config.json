@@ -1,0 +1,17 @@
+{
+  "name": "RealSealBot",
+  "description": "the bot for the seal army",
+  "version": "0.0.0",
+  "main": "bot.js",
+  "prefix": "!",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "11.2.1",
+    "request": "2.81.0"
+  },
+  "engines": {
+    "node": "8.6.0"
+  }
+}
